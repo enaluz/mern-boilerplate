@@ -61,7 +61,10 @@ typings/
 .next
 
 #environment variables
-env.sh
+*.sh
 
 #ngrok
 ngrok
+
+# Mac DS_store file
+.DS_store
